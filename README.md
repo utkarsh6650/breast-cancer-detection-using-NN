@@ -52,5 +52,4 @@ breast-cancer-detection/
 * Improve model accuracy
 
 
-##  Author
-* Utkarsh
+
