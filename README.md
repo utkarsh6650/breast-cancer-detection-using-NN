@@ -48,9 +48,9 @@ breast-cancer-detection/
 
 ##  Future Improvements
 
-* Deploy using Streamlit
+*  Deploy using Streamlit
 * Improve model accuracy
 
 
 ##  Author
-*Utkarsh
+* Utkarsh
